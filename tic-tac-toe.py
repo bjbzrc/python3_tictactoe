@@ -1,8 +1,8 @@
 # IT 4401 Final project: Python tic-tac-toe
 # By Brandon Buttlar, FA 2021
-
-# This is a two player tic-tac-toe script written fully in base Python 3,
+# This project is a two player tic-tac-toe script written fully in base Python 3,
 # without any additional modules needed.
+
 
 # Defines win conditions
 def check_win(player_pos, cur_player):
